@@ -26,7 +26,7 @@ Technical Ability:
 Leveraging cutting-edge tools and technologies, I demonstrated a strong technical aptitude throughout the project. My proficiency in data analysis and visualization tools allowed me to execute a robust and comprehensive analysis.
 
 Area of Concentration:
-In this project, I presented well-grounded recommendations based on the case study's insights. I critically evaluated the dataset's limitations and proposed enrichments that could enhance future analyses.
+In this project, I presented well-grounded recommendations based on the case study's insights. I critically evaluated the dataset's limitations and proposed enrichments that could enhance future analyses. The link to the presentation video on youtube is - https://www.youtube.com/embed/17OQ4BBsA7E?start=11326&end=12453
 
 Conclusion:
 My journey through this project was both fulfilling and enlightening. As I explored the complexities of poverty, life expectancy, and GDP in African countries, I developed a deeper appreciation for the power of data analysis in driving positive change. I am excited to share my insights and learnings, hoping that they can contribute to sustainable economic growth and improved quality of life for all citizens in Africa.
